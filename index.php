@@ -1,3 +1,3 @@
 <?php
-echo "Fuckkkkkkersyou"
+echo "Fuckkkkkker"
 ?>
